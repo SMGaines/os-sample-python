@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+org.jboss.tools.openshift.Connection=https\://server@192.168.64.2\:8443
+org.jboss.tools.openshift.DeployProject=os-sample-python
+org.jboss.tools.openshift.PodPath=
+org.jboss.tools.openshift.Service=fab@python
+org.jboss.tools.openshift.SourcePath=${workspace_loc\:/os-sample-python}
